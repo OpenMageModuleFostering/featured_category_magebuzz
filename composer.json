@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Featured_Category_Magebuzz",
+    "name": "openmage-module-fostering\/featured_category_magebuzz",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Featured category helps you show or filter special categories which need to have more attention.",
     "authors": [
